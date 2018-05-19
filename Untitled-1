@@ -1,0 +1,8 @@
+body {
+  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  background: #777; 
+  color: #777;
+  font-size: 18px; 
+  width: 980px;
+  box-sizing: border-box;
+}
